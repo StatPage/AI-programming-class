@@ -1,14 +1,14 @@
-Martin Van Buren
-John Tyler
-Andrew Johnson
-Theodore Roosevelt
-Chester Arthur
-Calvin Coolidge
-George H. W. Bush
-Harry Truman
-Gerald Ford
 Thomas Jefferson
+Millard Fillmore
+Harry Truman
+Chester Arthur
+Martin Van Buren
 Lyndon Johnson
 Richard Nixon
-Millard Fillmore
+John Tyler
+George H. W. Bush
+Calvin Coolidge
+Gerald Ford
+Andrew Johnson
 John Adams
+Theodore Roosevelt
